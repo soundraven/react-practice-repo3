@@ -1,0 +1,85 @@
+.App {
+  display: flex;
+  height: 100vh;
+}
+/* .Sidebar {
+  width: 200px;
+
+} */
+
+/* .MemoContainer {
+  background-color: beige;
+  flex: 1;
+}
+
+.MemoContainer__title {
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 2rem;
+}
+.MemoContainer__content {
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 1.1rem;
+  min-height: 600px;
+} */
+
+/* .MemoItem {
+  position: relative;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  padding: 5px 8px;
+}
+.MemoItem.selected {
+  background-color: rgba(100, 1000, 100, 0.5);
+  font-weight: bold;
+} */
+
+/* .SidebarFooter {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.SidebarFooter__add-button {
+  background: none;
+  border-radius: 50%;
+  border: 2px solid #333;
+  width: 40px;
+  height: 40px;
+  font-size: 1.3rem;
+  color: #333;
+  opacity: 0.6;
+  cursor: pointer;
+} */
+
+/* .MemoItem__delete-button {
+  position: absolute;
+  top: 5px;
+  right: 0;
+  background: none;
+  color: red;
+  border: none;
+  cursor: pointer;
+  display: none;
+} */
+/* hover 했을 때만 x버튼 보이도록 수정 */
+/* .MemoItem:hover .MemoItem__delete-button {
+  display: inline-block;
+} */
+
+/* .MemoContainer__empty {
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 1.3rem;
+  min-height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.MemoContainer__empty > h1 {
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+} */
